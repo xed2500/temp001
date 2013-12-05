@@ -1,6 +1,6 @@
 1 edit1 edit2
 2
-3 edit alternate branch edit again
+3 edit alternate branch edit again 1
 4
 5 edit alternate branch with conflict
 6
