@@ -2,11 +2,10 @@
 2
 3 edit alternate branch edit again 1 2 3
 4
-<<<<<<< HEAD
+
 5 edit alternate branch with conflict
-=======
 5 edit branch 1 with conflict
->>>>>>> branch1
+
 6
 7
 8
