@@ -1,12 +1,10 @@
-1 edit1 edit2
+1
 2
-3 edit alternate branch edit again 1 2 3
+3
 4
 
-5 edit alternate branch with conflict
-5 edit branch 1 with conflict
-
+5
 6
 7
 8
-9 edit
+9
